@@ -148,3 +148,5 @@ Open the frontend at `http://localhost:3000`.
 5. Approve the vehicle as admin
 6. Book it as a user and complete a payment
 7. Submit a review after the booking
+ .
+ 
